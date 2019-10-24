@@ -14,10 +14,6 @@ public class Student extends AbstractEntity {
     @Email
     private String email;
 
-    private float peso;
-
-
-
     public String getName() {
         return name;
     }
